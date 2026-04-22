@@ -31,7 +31,7 @@ graph TD
     end
 
     subgraph "4. Synthesis & Distribution"
-        H --> I[Qwen3:14B LLM Narrative]
+        H --> I[LLM Narrative]
         I --> J1[Streamlit Dashboard]
         I --> J2[Telegram Bot @Analyze]
     end
