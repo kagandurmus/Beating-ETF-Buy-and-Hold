@@ -1,0 +1,17 @@
+# Data Science & Analysis
+polars
+numpy
+joblib
+matplotlib
+
+# Broker API & Integration
+alpaca-py
+python-dotenv
+
+# Interface & Automation
+python-telegram-bot
+asyncio
+
+# Machine Learning Core
+xgboost
+scikit-learn

@@ -7,6 +7,9 @@ from telegram.ext import Application, CommandHandler, ContextTypes
 import html
 from pipeline import run_full_pipeline
 
+"""
+This is the Telegram bot interface for the Quant Engine. It listens for the /analyze command, triggers the full pipeline, and returns a formatted institutional briefing with the market regime forecast, key indicators, and a narrative analysis.
+"""
 # Setup logging
 load_dotenv()
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
