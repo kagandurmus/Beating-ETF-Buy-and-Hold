@@ -23,12 +23,19 @@ This system doesn't just track the index—it beats it by identifying structural
 
 ---
 
-## Intellectual Property Note
-Note: The specific mathematical weights, HMM transition matrices, and hyperparameter configurations are excluded from this public release to protect proprietary trading logic.
+## Disclaimer & Investment Warning
 
-## License
+This repository is for educational and academic research purposes only.
 
-All rights are reserved. No license is granted to use, modify, distribute, sublicense, or commercialize the code in this repository without explicit written permission from the author.
+Not Financial Advice: The code and analysis presented are not intended to be, and do not constitute, financial, investment, or trading advice.
 
-Certain proprietary components, model configurations, and trading logic are intentionally omitted from the public version.
+Market Risk: Trading the S&P 500 or any financial instrument involves significant risk of loss.
 
+No Liability: The author is not responsible for any financial losses or damages incurred by individuals attempting to use this logic in live market conditions.
+
+## License: Educational & Academic Use
+This project is licensed under a Non-Commercial Creative Commons (CC BY-NC 4.0) equivalent for software.
+
+✅ Permitted: You are free to use, study, and modify this code for personal learning, university projects, or academic research.
+
+❌ Prohibited: Commercial usage, redistribution for profit, or application in live trading environments without explicit written consent from the author is strictly forbidden.
