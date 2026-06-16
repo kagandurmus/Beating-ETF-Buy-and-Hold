@@ -1,4 +1,4 @@
-# 📈 Alpha-Strike: ML-Driven S&P 500 Strategy
+# Beating-ETF-Buy-and-Hold
 
 **Outperforming the S&P 500 by timing market regimes with Machine Learning.**
 
